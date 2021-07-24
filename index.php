@@ -16,7 +16,7 @@
         </style>
     </head>
     <body bgcolor="black">
-    <h1><center><font color ="yellow">নিজেকে খুব চালাক মনে করেন?? পেমেন্ট করে ইনবক্স এ নক করিয়েন সব ঠিক করে দেওয়া হবে facebook এ সার্চ করেন tuser420 তাহলে আমার ফেসবুক আইডি পাবেন Tuser Ahammed <br> Whatsapp Number: +12242693889</font></center></h1>
+    <h1><center><font color ="yellow"></font></center></h1>
     <canvas></canvas>
     <script src = "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     
